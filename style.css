@@ -8,15 +8,15 @@ body {
   }
   
 h1 {
-    color: white;
+    color: gray;
     font-size: 28px;
     text-transform: uppercase;
-    background-color: #ffffff0e;
     font-weight: 700;
+    top: 100px;
   }
 
 h2 {
-  color: white;
+  color: gray;
   font-size: 24px;
   background-color: #ffffff0e;
   font-weight: 500;
@@ -30,9 +30,10 @@ h2 {
 }
 
 .button {
-  color: gray
+  color: gray;
   color: white;
   font-size: 20px;
+  text-align: right;
 }
 
 .header {
