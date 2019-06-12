@@ -28,7 +28,15 @@ h2 {
   z-index: 10;
   width: 100%;
 }
+
 .button {
+  color: gray
   color: white;
   font-size: 20px;
+}
+
+.header {
+  text-align: center;
+  position: relative;
+
 }
